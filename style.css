@@ -33,3 +33,39 @@ body {
     border-radius: 5px;
     padding: 10px 20px;
 }
+
+.today_donate {
+    text-align: center;
+    padding: 80px;
+}
+
+span {
+    margin: 100px;
+    text-align: center;
+    padding: 10px;
+    background-color: #00ffff2e;
+    font-size: 20px;
+}
+
+#border {
+
+    border: 1px solid red;
+}
+
+.amount {
+    margin-top: 50px;
+    padding-bottom: 20px;
+
+}
+
+.beshi_na {
+    margin-top: 21px;
+}
+
+.beshi_na a {
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
