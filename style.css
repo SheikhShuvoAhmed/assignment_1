@@ -111,3 +111,61 @@ span {
     border-radius: 5px;
     padding: 10px 20px;
 }
+
+.survive_section {
+    display: flex;
+    text-align: center;
+    padding: 70px 19px;
+}
+
+.survive_section a {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255, 89, 89);
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.survive_img {
+    width: 45%;
+}
+
+.survive_text {
+    width: 45%;
+    text-align: left;
+    margin-left: 29px;
+}
+
+.survive_img img {
+    width: 80%;
+    margin-left: 93px;
+    /* margin-right: 10px; */
+}
+
+.update_section {
+    text-align: center;
+    width: 80%;
+    margin-left: 192px;
+    padding: 40px;
+}
+
+.email {
+    padding: 10px 5px;
+    background-color: darkturquoise;
+    border: none;
+}
+
+.btn_sub {
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    padding: 10px 5px;
+}
+
+footer {
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
